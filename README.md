@@ -1,17 +1,15 @@
 # Hello, I'm BRADLEY
 <a href="https://linkedin.com/in/osato-bradley-ehondor/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an Information Security Analyst with a background in IT and a focus on cloud security and penetration testing. Currently working as a SOC Analyst in a fintech company, I’m developing skills in threat detection, incident response, and vulnerability management. Explore my projects as I continue to grow in the field and enhance security practices.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a SOC Analyst, I aim to leverage my skills in threat detection, incident response, and vulnerability management to enhance organizational security. I’m committed to applying my IT background and expertise in cloud security and penetration testing to protect critical systems and data.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+I leverage my skills in threat detection, analysis, and response to develop and execute impactful security projects, continuously enhancing organizational defense strategies.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+I’m adept at utilizing advanced security tools to enhance threat detection, analysis, and response capabilities.
 
 ### Network
 <div>
