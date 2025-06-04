@@ -34,6 +34,8 @@ I’m adept at utilizing advanced security tools to enhance threat detection, an
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike_EDR-005571?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ### SIEM
@@ -41,6 +43,7 @@ I’m adept at utilizing advanced security tools to enhance threat detection, an
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AlienVault-005571?&style=for-the-badge&logo=AlienVault&logoColor=white" />
 </div>
 
 ## Certifications
