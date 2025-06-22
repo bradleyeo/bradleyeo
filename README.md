@@ -66,5 +66,4 @@ I’m adept at utilizing advanced security tools to enhance threat detection, an
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+<a href="https://github.com/bradleyeo/Home-Cybersecurity-Lab-Project"> Home Cybersecurity Lab
