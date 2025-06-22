@@ -13,7 +13,7 @@ I leverage my skills in threat detection, analysis, and response to develop and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/bradleyeo/Home-Cybersecurity-Lab-Project">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/bradleyeo/Home-Cybersecurity-Lab-Project"> Home Cybersecurity Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
