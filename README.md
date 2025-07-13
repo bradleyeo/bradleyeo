@@ -15,7 +15,7 @@ I leverage my skills in threat detection, analysis, and response to develop and 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/bradleyeo/Home-Cybersecurity-Lab-Project"> Home Cybersecurity Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with N8n        | Automated SSL Checker and alert system|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
