@@ -94,7 +94,7 @@ Areas of interest include:
 ## Cloud Security
 
 🔐 **AWS Account Security Hardening**  
-Secure AWS account configuration implementing RBAC, MFA enforcement, and CloudTrail logging.
+Secure AWS account baseline focusing on IAM governance, implementing RBAC, MFA enforcement, least-privilege access, and CloudTrail logging for audit visibility.
 
 Project Repository:  
 https://github.com/bradleyeo/aws-account-security-hardening
@@ -135,9 +135,5 @@ I’m currently building a **cloud security project series**, exploring:
 
 
 # Long-Term Direction
-
-Cloud Security Engineering  
-Security Automation  
-Infrastructure Security
 
 My long-term goal is to operate as a Cloud Security Engineer and Solutions Architect, designing secure, scalable, reliable, and cost-efficient cloud systems.
