@@ -23,7 +23,7 @@ Areas of interest include:
 | Skill | Associated Project |
 |------|-------------------|
 | Cloud Security Architecture | [AWS Account Security Hardening](https://github.com/bradleyeo/aws-account-security-hardening) |
-| Secure Web Infrastructure (CloudFront + S3 + WAF) | [Secure Edge-to-Origin Static Web Architecture](https://github.com/bradleyeo/aws-secure-static-website-architecture) |
+| Secure Web Infrastructure (CloudFront + S3 + WAF) | [Secure Edge-to-Origin Static Web Architecture](https://github.com/bradleyeo/secure-edge-static-website-aws) |
 | SIEM Implementation & Log Analysis | [Home Cybersecurity Lab](https://github.com/bradleyeo/Home-Cybersecurity-Lab-Project) |
 | Security Automation | [Automated SSL Checker and Alert System](https://github.com/bradleyeo/SSL-Checker-using-n8n) |
 
@@ -104,7 +104,7 @@ https://github.com/bradleyeo/aws-account-security-hardening
 Secure web delivery architecture using CloudFront, AWS WAF, and a private S3 origin protected by Origin Access Control (OAC).
 
 Project Repository:  
-https://github.com/bradleyeo/aws-secure-static-website-architecture
+https://github.com/bradleyeo/secure-edge-static-website-aws
 
 
 ## Security Automation
